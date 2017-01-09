@@ -11,5 +11,6 @@ add_subdirectory(SigGen)
 add_subdirectory(simpleFit)
 add_subdirectory(TDDP4)
 add_subdirectory(zachFit)
+add_subdirectory(KKPiPi)
 
 goofit_add_link(int_testing.py)
